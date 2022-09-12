@@ -1,3 +1,3 @@
 # Unity-Mario
 
-Note: Libray folder yet to push. 
+Note: Libray folder yet to be pushed. 
